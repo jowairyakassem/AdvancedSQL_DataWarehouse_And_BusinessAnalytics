@@ -2,7 +2,7 @@
 
 A SQL Server data warehouse and business analytics solution built from the Central region Superstore sales dataset (MiniProject 2).
 
-![Star schema diagram](docs/star_schema_diagram.png)
+![Star schema diagram](star_schema_diagram.png)
 
 ## Overview
 
