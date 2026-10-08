@@ -27,8 +27,9 @@ Schemas used: `stg` (staging), `dw` (warehouse), `rpt` (reporting).
 ├── sql/central_superstore_dw.sql   # Full T-SQL script (sections 1-10)
 ├── data/Central_Superstore.csv     # Source dataset (CSV)
 ├── data/Central_Superstore.xlsx    # Source dataset (Excel)
-├── docs/star_schema_diagram.png    # Schema diagram
+├── star_schema_diagram.png    # Schema diagram
 ├── .gitignore
+├── LINCESE
 └── README.md
 ```
 
