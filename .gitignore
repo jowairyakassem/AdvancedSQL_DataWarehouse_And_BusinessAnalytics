@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Excel temp files
+~$*.xlsx
+
+# Logs
+*.log
+
+# Database backups (private, keep out of the repo)
+*.bak
